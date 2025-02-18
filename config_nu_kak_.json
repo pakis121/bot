@@ -1,0 +1,16 @@
+{
+    "mcUsername": "nu_kak_",
+    "mcPassword": "",
+    "mcServerHost": "play.funtime.su",
+    "mcServerPort": 25565,
+    "proxyHost": "194.113.119.17",
+    "proxyPort": 6691,
+    "proxyUsername": "rtfrgznq",
+    "proxyPassword": "snm92bdnrhuo",
+    "web1": "https://discord.com/api/webhooks/1338611190724825200/YokGWPDfkdkzYZBq-a60w9fs_ANdgrKs4TZ4aqg9WMjs0px1i4KlVR37vKN4Q0eqcuec",
+    "token": "",
+    "channelId": "",
+    "messages": [
+    { "message": "/ping", "interval": 70000 }
+  ]
+  }
